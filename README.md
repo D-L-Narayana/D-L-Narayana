@@ -8,7 +8,7 @@
 
 # 🧣 About Me:
 
-🔭 I'm currently working on Web Development & Competitive Programming<br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br>🌱 I have a solid grip on Frontend & Backend Development, and know Java programming language<br>💬 Ask me about C, Java, Python, JavaScript & Web Dev<br>⚡ Fun fact: I debug code faster than I debug my sleep schedule 😄
+🔭 I'm currently working on Web Development & Competitive Programming<br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br>🌱 Full-stack developer with a strong foundation in Frontend and Backend development, specializing in Java to build scalable applications.<br>💬 Ask me about C, Java, Python, JavaScript & Web Dev<br>⚡ Fun fact: I debug code faster than I debug my sleep schedule 😄
 
 ---
 
