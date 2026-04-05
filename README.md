@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Web Development & Competitive Programming<br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br>🌱 I'm currently learning React, Java Full Stack & Data Structures<br>💬 Ask me about C, Java, Python, JavaScript & Web Dev<br>⚡ Fun fact: I debug code faster than I debug my sleep schedule 😄
+🔭 I'm currently working on Web Development & Competitive Programming<br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br>🌱 I have a solid grip on Frontend & Backend Development, and know Java programming language<br>💬 Ask me about C, Java, Python, JavaScript & Web Dev<br>⚡ Fun fact: I debug code faster than I debug my sleep schedule 😄
 
 
 # 💻 Tech Stack:
