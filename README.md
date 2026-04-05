@@ -9,9 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rahul777111&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul777111&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rahul777111&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
