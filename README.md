@@ -18,35 +18,15 @@
 
 ---
 
-# 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul777111&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul777111&theme=radical&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul777111&theme=radical&hide_border=false&layout=compact" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies:
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Rahul777111&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 # 🐍 Contribution Snake:
 
 <div align="center">
 
-![snake gif](https://github.com/Rahul777111/Rahul777111/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake.svg" />
+</picture>
 
 </div>
 
