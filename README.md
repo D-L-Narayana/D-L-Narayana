@@ -122,18 +122,8 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
