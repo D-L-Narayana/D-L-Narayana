@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=D%20L%20Narayana%20%7C%20Rahul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:6d28d9,100:a78bfa&height=250&section=header&text=D%20L%20Narayana%20%7C%20Rahul&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=62&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rahul+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Builder+%F0%9F%A4%96;Three.js+%7C+WebGL+%7C+Immersive+UI+%F0%9F%8C%90;Shipping+real+products%2C+not+demos+%E2%9A%A1;Open+Source+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Hey+there!+I%27m+Rahul+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Builder+%F0%9F%A4%96;Three.js+%7C+WebGL+%7C+Immersive+UI+%F0%9F%8C%90;Shipping+real+products%2C+not+demos+%E2%9A%A1;Open+Source+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rahul777111&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Rahul777111)
-[![Followers](https://img.shields.io/github/followers/Rahul777111?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Rahul777111?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rahul777111&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Rahul777111)
+[![Followers](https://img.shields.io/github/followers/Rahul777111?label=Followers&style=for-the-badge&color=a78bfa&labelColor=1a1a2e)](https://github.com/Rahul777111?tab=followers)
 
 <br/>
 
@@ -37,7 +37,36 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul777111&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul777111&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul777111&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rahul777111&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -95,21 +124,11 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rahul777111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul777111&theme=react-dark&hide_border=true&area=true&custom_title=Rahul%27s%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul777111&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff&custom_title=Rahul%27s%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,6 +146,6 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 > *"Build things that matter. Ship things that work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6d28d9,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
