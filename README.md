@@ -121,12 +121,8 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahul777111&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Rahul777111&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=302B63&stroke=302B63&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
