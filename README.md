@@ -9,12 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rahul777111">
-    <img src="https://komarev.com/ghpvc/?username=Rahul777111&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Rahul777111?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rahul777111?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rahul777111&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rahul777111?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Rahul777111?label=Stars&style=for-the-badge&color=blueviolet" alt="Stars" />
 </div>
 
