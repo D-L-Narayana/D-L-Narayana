@@ -139,18 +139,6 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake.svg" />
-    <img width="100%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake-dark.svg" />
-  </picture>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
-
 ## 📈 Contribution Graph
 
 <div align="center">
