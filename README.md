@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=D%20L%20Narayana%20%7C%20Rahul&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=D%20L%20Narayana%20%7C%20Rahul&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=56&descSize=20" alt="header banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rahul+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Builder+%F0%9F%A4%96;Three.js+%7C+WebGL+%7C+Immersive+UI+%F0%9F%8C%90;Shipping+real+products%2C+not+demos+%E2%9A%A1;Open+Source+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Hey+there!+I'm+Rahul+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;AI+%26+LLM+Integration+Builder+%F0%9F%A4%96;Three.js+%7C+WebGL+%7C+Immersive+UI+%F0%9F%8C%90;Shipping+real+products%2C+not+demos+%E2%9A%A1;Open+Source+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,9 +30,11 @@
   </a>
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
 name       : D L Narayana (Rahul)
@@ -44,9 +46,22 @@ learning   : LangChain • RAG Pipelines • Agent Orchestration • WebGL
 fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ```
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Currently Building</h3>
+      <p>Immersive 3D web experiences, AI-powered dev tools, and full-stack products that actually ship.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💬 Ask Me About</h3>
+      <p>Three.js / WebGL · LLM &amp; RAG pipelines · Next.js architecture · FastAPI · animation &amp; motion design.</p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
 
 <div align="center">
 
@@ -62,9 +77,9 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## 💻 Tech Stack
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -101,9 +116,9 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
@@ -114,7 +129,15 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
   <img width="100%" src="https://streak-stats.demolab.com?user=Rahul777111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 ## 🐍 Contribution Snake
 
@@ -126,7 +149,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
   </picture>
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 ## 📈 Contribution Graph
 
@@ -134,7 +157,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul777111&theme=react-dark&hide_border=true&area=true&custom_title=Rahul%27s%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 ## 🌐 Let's Connect
 
