@@ -106,12 +106,12 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahul777111&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rahul777111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Rahul777111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 ---
