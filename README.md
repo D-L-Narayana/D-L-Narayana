@@ -126,7 +126,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Rahul777111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Rahul777111&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=302B63&stroke=302B63&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
