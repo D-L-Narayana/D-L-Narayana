@@ -118,7 +118,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <div align="center">
   <h3>🧰 My Skills</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,js,html,css,nodejs,python,fastapi,express,langchain,openai,mongodb,mysql,postgres,prisma,docker,git,github,vercel&perline=8&theme=dark" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,js,html,css,nodejs,python,fastapi,express,mongodb,mysql,postgres,prisma,docker,git,github,vercel&perline=10&theme=dark" alt="My skills" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
