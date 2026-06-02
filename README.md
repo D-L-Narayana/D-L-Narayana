@@ -34,7 +34,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 🧠 About Me
 
 ```yaml
 name       : D L Narayana (Rahul)
@@ -61,7 +61,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -79,7 +79,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -118,7 +118,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
