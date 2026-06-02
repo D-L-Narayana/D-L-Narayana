@@ -111,18 +111,14 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs&card_width=360" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>🧰 My Skills</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,js,html,css&theme=dark" alt="Frontend skills" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,langchain,openai&theme=dark" alt="Backend & AI skills" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,docker,git,github,vercel&theme=dark" alt="Databases & DevOps skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,js,html,css,nodejs,python,fastapi,express,langchain,openai,mongodb,mysql,postgres,prisma,docker,git,github,vercel&perline=8&theme=dark" alt="My skills" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
