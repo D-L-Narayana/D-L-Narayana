@@ -145,7 +145,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake-dark.svg" />
+    <img width="100%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/output/snake-dark.svg" />
   </picture>
 </div>
 
