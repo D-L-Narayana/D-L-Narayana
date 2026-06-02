@@ -111,13 +111,23 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs&card_width=360" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rahul777111&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs&card_width=420&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://streak-stats.demolab.com?user=Rahul777111&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
   <h3>🧰 My Skills</h3>
+  <br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,js,html,css,nodejs,python,fastapi,express,mongodb,mysql,postgres,prisma,docker,git,github,vercel&perline=10&theme=dark" alt="My skills" />
 </div>
 
