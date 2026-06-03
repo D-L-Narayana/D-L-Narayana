@@ -16,7 +16,7 @@
 
 <table align="center"><tr>
   <td><a href="https://linkedin.com/in/rahul777111"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-  <td><a href="mailto:killjoy7471@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+  <td><a href="mailto:nvr0910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
   <td><a href="https://github.com/Rahul777111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
 </tr></table>
 
@@ -30,9 +30,9 @@
 name       : D L Narayana
 location   : Andhra Pradesh, India 🇮🇳
 role       : Full-Stack Developer & AI Builder
-currently  : Building nova-forge-3d • RepoPulse • IssueLens • AI Code Reviewer
-stack      : Next.js • React • TypeScript • Node.js • Python • FastAPI • Three.js
-learning   : LangChain • RAG Pipelines • Agent Orchestration • WebGL
+currently  : Building AlgoViz • CryptoLab • WeatherScope • DevPortfolio
+stack      : React • Next.js • TypeScript • Node.js • Python • FastAPI • Tailwind
+learning   : DSA • System Design • Cryptography • Motion & Animation
 fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ```
 
@@ -55,15 +55,14 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <div align="center">
 
-| Project | Description | Stack |
-| :------ | :---------- | :---- |
-| 🌌 [nova-forge-3d](https://github.com/Rahul777111/nova-forge-3d) | Immersive AI product engineering studio — WebGL, GLSL shaders, smooth scroll | React 19 · Three.js · GLSL · GSAP |
-| 🎬 [cinematic-studio](https://github.com/Rahul777111/cinematic-studio) | Premium cinematic full-stack web experience | Next.js 16 · TS · Framer Motion · Supabase |
-| 📊 [RepoPulse](https://github.com/Rahul777111/repopulse-dashboard) | GitHub repo health analytics — commit velocity, PR stats, contributors | Next.js · TypeScript · GitHub API |
-| 🔎 [AI Code Reviewer](https://github.com/Rahul777111/ai-code-reviewer) | Detects bugs, security issues & complexity with local LLMs | FastAPI · Python · React · Ollama |
-| 💼 [job-tracker-pro](https://github.com/Rahul777111/job-tracker-pro) | MERN job application tracker — interviews, offers, analytics | Next.js 16 · React 19 · Express · MongoDB |
-| 🗯️ [RoadFix India](https://github.com/Rahul777111/roadfix-india) | Citizen road complaint & repair tracking on interactive map | TypeScript · Next.js · Maps API |
-| ⚡ [gitspark](https://github.com/Rahul777111/gitspark) | Paste a repo URL → AI README, changelog & docs | Next.js · FastAPI · Groq |
+| Project | Description | Stack | Live |
+| :------ | :---------- | :---- | :--- |
+| 📊 [AlgoViz](https://github.com/Rahul777111/algoviz) | DSA visualizer with 6 sorting and 4 pathfinding algorithms, live metrics and complexity | React · Vite · Motion | [Demo](https://algoviz-lilac.vercel.app) |
+| 🔐 [CryptoLab](https://github.com/Rahul777111/cryptolab) | Cryptography playground: classical ciphers plus real Web Crypto (AES-GCM, RSA, hashing) | React · Vite · Web Crypto | [Demo](https://cryptolab-six.vercel.app) |
+| 🌦️ [WeatherScope](https://github.com/Rahul777111/weatherscope) | Live weather dashboard with city search, geolocation, 24h chart and 7-day forecast | React · Recharts · Open-Meteo | [Demo](https://weatherscope-mocha.vercel.app) |
+| 🪪 [DevPortfolio](https://github.com/Rahul777111/devportfolio) | Cinematic dark-first developer portfolio with 3D tilt cards and scroll reveals | React · Vite · Motion | [Demo](https://devportfolio-one-rouge.vercel.app) |
+| 📌 [SnipStash](https://github.com/Rahul777111/snipstash) | Code snippet manager with syntax highlighting, tags, search and favorites | React · Vite · Prism | [Demo](https://snipstash-six.vercel.app) |
+| ⏱️ [PomoFlow](https://github.com/Rahul777111/pomoflow) | Pomodoro focus timer with task tracking and weekly analytics | React · Vite · Recharts | [Demo](https://pomoflow-puce.vercel.app) |
 
 </div>
 
@@ -144,7 +143,7 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 
 <table align="center"><tr>
   <td><a href="https://linkedin.com/in/rahul777111"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-  <td><a href="mailto:killjoy7471@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+  <td><a href="mailto:nvr0910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
   <td><a href="https://github.com/Rahul777111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
 </tr></table>
 
