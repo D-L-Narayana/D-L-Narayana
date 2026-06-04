@@ -72,7 +72,6 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 | 📊 [AlgoViz](https://github.com/Rahul777111/algoviz) | DSA visualizer with 6 sorting and 4 pathfinding algorithms, live metrics and complexity | React · Vite · Motion | [Demo](https://algoviz-lilac.vercel.app) |
 | 🔐 [CryptoLab](https://github.com/Rahul777111/cryptolab) | Cryptography playground: classical ciphers plus real Web Crypto (AES-GCM, RSA, hashing) | React · Vite · Web Crypto | [Demo](https://cryptolab-six.vercel.app) |
 | 🌦️ [WeatherScope](https://github.com/Rahul777111/weatherscope) | Live weather dashboard with city search, geolocation, 24h chart and 7-day forecast | React · Recharts · Open-Meteo | [Demo](https://weatherscope-mocha.vercel.app) |
-| 🪪 [DevPortfolio](https://github.com/Rahul777111/devportfolio) | Cinematic dark-first developer portfolio with 3D tilt cards and scroll reveals | React · Vite · Motion | [Demo](https://devportfolio-one-rouge.vercel.app) |
 | 📌 [SnipStash](https://github.com/Rahul777111/snipstash) | Code snippet manager with syntax highlighting, tags, search and favorites | React · Vite · Prism | [Demo](https://snipstash-six.vercel.app) |
 | ⏱️ [PomoFlow](https://github.com/Rahul777111/pomoflow) | Pomodoro focus timer with task tracking and weekly analytics | React · Vite · Recharts | [Demo](https://pomoflow-puce.vercel.app) |
 
