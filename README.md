@@ -30,7 +30,7 @@
 name       : D L Narayana
 location   : Andhra Pradesh, India 🇮🇳
 role       : Full-Stack Developer & AI Builder
-currently  : Building AlgoViz • CryptoLab • WeatherScope • DevPortfolio
+currently  : Building CityHelp • StayNest • MeetWave • full-stack apps
 stack      : React • Next.js • TypeScript • Node.js • Python • FastAPI • Tailwind
 learning   : DSA • System Design • Cryptography • Motion & Animation
 fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
@@ -54,6 +54,18 @@ fun_fact   : I automate my own dev workflow before automating anyone else's ⚡
 ## 🚀 Featured Projects
 
 <div align="center">
+
+### Full-Stack Applications
+
+| Project | Description | Stack | Live |
+| :------ | :---------- | :---- | :--- |
+| 🏙️ [CityHelp](https://github.com/Rahul777111/cityhelp) | Civic platform: report city issues, upvote, live dashboard, real Leaflet map with realtime pins, and a services directory | Next.js · Supabase · Leaflet | [Demo](https://cityhelp-sage.vercel.app) |
+| 🏠 [StayNest](https://github.com/Rahul777111/staynest) | Airbnb-style booking app with search, listing pages, a working booking flow and saved trips | Next.js · Supabase · Motion | [Demo](https://staynest-two.vercel.app) |
+| 📹 [MeetWave](https://github.com/Rahul777111/meetwave) | Zoom-style video meetings over WebRTC: rooms, live grid, mute, camera and screen share | Next.js · WebRTC · PeerJS | [Demo](https://meetwave-kappa.vercel.app) |
+| 🔎 [GitHubLens](https://github.com/Rahul777111/githublens) | Analyze any GitHub profile: stars, languages, top repos and a developer score | Next.js · GitHub API · Recharts | [Demo](https://githublens-kappa.vercel.app) |
+| 🎮 [CodeRunner](https://github.com/Rahul777111/coderunner) | A code-typing game: real snippets, live WPM and accuracy, combos and a leaderboard | Next.js · React · Motion | [Demo](https://coderunner-snowy.vercel.app) |
+
+### Frontend Projects
 
 | Project | Description | Stack | Live |
 | :------ | :---------- | :---- | :--- |
