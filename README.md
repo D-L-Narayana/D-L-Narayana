@@ -31,10 +31,10 @@
 ## &nbsp;👨‍💻&nbsp; About Me
 
 ```yaml
-name      : D L Narayana
-location  : India 🇮🇳
-role      : Full-Stack Developer
-focus     : Building polished, full-stack web apps that actually ship
+name       : D L Narayana
+location   : India 🇮🇳
+role       : Full-Stack Developer
+focus      : Building polished, full-stack web apps that actually ship
 stack      : React · Next.js · TypeScript · Node.js · Python · Prisma · Tailwind
 exploring  : DSA · System Design · Cryptography · Motion & data visualization
 philosophy : "Build things that matter. Ship things that work."
