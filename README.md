@@ -97,14 +97,28 @@ philosophy : "Build things that matter. Ship things that work."
 ## &nbsp;📊&nbsp; GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul777111&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul777111&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+
+| 📦 Public Repos | ⭐ Stars Earned | 🍴 Forks | 👥 Followers |
+| :-------------: | :-------------: | :------: | :----------: |
+| **12** | **12** | **0** | **1** |
+
 </div>
 
-<br/>
+<h3 align="center">Most Used Languages</h3>
+
+```text
+TypeScript  ████████████████████████████████████░░░░░░░░  82.3%
+JavaScript  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13.9%
+CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+```
 
 <div align="center">
-  <img width="58%" src="https://streak-stats.demolab.com?user=Rahul777111&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
