@@ -12,7 +12,7 @@
 
 <!-- ===================== BADGES ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul777111&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Rahul777111.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=A78BFA&labelColor=0D1117" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rahul777111?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Rahul777111?label=STARS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Stars" />
 </div>
