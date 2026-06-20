@@ -75,7 +75,6 @@ philosophy : "Build things that matter. Ship things that work."
 | :------ | :----------- | :---- | :--: |
 | 🏙️ **[CityHelp](https://github.com/Rahul777111/cityhelp)** | Civic platform — report city issues, upvote, track on a live dashboard &amp; map, find services | Next.js · API Routes · Recharts | [↗](https://cityhelp-sage.vercel.app) |
 | 🏠 **[StayNest](https://github.com/Rahul777111/staynest)** | Airbnb-style booking app with search, listing pages, a working booking flow &amp; trips | Next.js · API Routes · Motion | [↗](https://staynest-two.vercel.app) |
-| 📹 **[MeetWave](https://github.com/Rahul777111/meetwave)** | Zoom-style video calls over WebRTC — rooms, shareable links, peer-to-peer, screen share | Next.js · WebRTC · PeerJS | [↗](https://meetwave-kappa.vercel.app) |
 | 🔎 **[GitHubLens](https://github.com/Rahul777111/githublens)** | Analyze any GitHub profile — stars, languages, top repos &amp; a developer score | Next.js · GitHub API · Recharts | [↗](https://githublens-kappa.vercel.app) |
 | 🎮 **[CodeRunner](https://github.com/Rahul777111/coderunner)** | A code-typing game — race the clock on real snippets, build combos, climb the leaderboard | Next.js · React · Motion | [↗](https://coderunner-snowy.vercel.app) |
 
@@ -85,9 +84,6 @@ philosophy : "Build things that matter. Ship things that work."
 | :------ | :----------- | :---- | :--: |
 | 📊 **[AlgoViz](https://github.com/Rahul777111/algoviz)** | DSA visualizer — 6 sorting + 4 pathfinding algorithms with live metrics | React · Vite · Motion | [↗](https://algoviz-lilac.vercel.app) |
 | 🔐 **[CryptoLab](https://github.com/Rahul777111/cryptolab)** | Cryptography playground — classical ciphers + real Web Crypto (AES-GCM, RSA, hashing) | React · Vite · Web Crypto | [↗](https://cryptolab-six.vercel.app) |
-| 🌦️ **[WeatherScope](https://github.com/Rahul777111/weatherscope)** | Live weather dashboard with 24h chart &amp; 7-day forecast, no API key | React · Recharts · Open-Meteo | [↗](https://weatherscope-mocha.vercel.app) |
-| 📌 **[SnipStash](https://github.com/Rahul777111/snipstash)** | Code snippet manager — syntax highlighting, tags, search &amp; favorites | React · Vite · Prism | [↗](https://snipstash-six.vercel.app) |
-| ⏱️ **[PomoFlow](https://github.com/Rahul777111/pomoflow)** | Pomodoro focus timer with task tracking &amp; weekly analytics | React · Vite · Recharts | [↗](https://pomoflow-puce.vercel.app) |
 
 </div>
 
