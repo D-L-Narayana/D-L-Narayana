@@ -103,18 +103,16 @@ philosophy : "Build things that matter. Ship things that work."
 <h3 align="center">Most Used Languages</h3>
 
 ```text
-TypeScript  ████████████████████████████████████░░░░░░░░  82.3%
-JavaScript  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13.9%
-CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
-HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+TypeScript  ████████████████████████████████████████░░░░  90.8%
+JavaScript  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7.3%
+CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
