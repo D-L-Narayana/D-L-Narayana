@@ -96,7 +96,7 @@ philosophy : "Build things that matter. Ship things that work."
 
 | 📦 Public Repos | ⭐ Stars Earned | 🍴 Forks | 👥 Followers |
 | :-------------: | :-------------: | :------: | :----------: |
-| **12** | **12** | **0** | **1** |
+| **10** | **10** | **0** | **2** |
 
 </div>
 
