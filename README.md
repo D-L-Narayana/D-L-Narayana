@@ -6,7 +6,7 @@
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
   <a href="https://github.com/Rahul777111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Narayana+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node;3D+%7C+Motion+%26+Clean+UI;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Narayana+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node;Data+viz%2C+motion+%26+clean+UI;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://hits.sh/github.com/Rahul777111.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=A78BFA&labelColor=0D1117" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Rahul777111?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Rahul777111?label=STARS&style=for-the-badge&color=A78BFA&labelColor=0D1117&affiliations=OWNER" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Rahul777111?label=STARS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Stars" />
 </div>
 
 <br/>
@@ -32,11 +32,11 @@
 
 ```yaml
 name       : D L Narayana
-location   : Hyderabad, India 🇮🇳
+location   : India 🇮🇳
 role       : Full-Stack Developer
 focus      : Building polished, full-stack web apps that actually ship
-stack      : React · Next.js · TypeScript · Node.js · Python · Prisma · Tailwind · Three.js
-exploring  : DSA · System Design · Cryptography · 3D Web · Motion & data visualization
+stack      : React · Next.js · TypeScript · Node.js · Python · Prisma · Tailwind
+exploring  : DSA · System Design · Cryptography · Motion & data visualization
 philosophy : "Build things that matter. Ship things that work."
 ```
 
@@ -44,29 +44,14 @@ philosophy : "Build things that matter. Ship things that work."
   <tr>
     <td align="center" width="50%">
       <h3>🚀 What I'm building</h3>
-      <p>Full-stack products end-to-end — auth, APIs, databases and clean, animated front-ends. From civic platforms to 3D experiences to AI tools.</p>
+      <p>Full-stack products end-to-end — auth, APIs, databases and clean, animated front-ends. From civic platforms to booking apps to dev tools.</p>
     </td>
     <td align="center" width="50%">
       <h3>💬 Ask me about</h3>
-      <p>Next.js architecture · React &amp; TypeScript · REST APIs with Node/Prisma · data visualization with Recharts · 3D with Three.js · animation with Motion.</p>
+      <p>Next.js architecture · React &amp; TypeScript · REST APIs with Node/Prisma · data visualization with Recharts · animation with Motion.</p>
     </td>
   </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
-
-<!-- ===================== CURRENTLY WORKING ON ===================== -->
-## &nbsp;🔭&nbsp; Currently Working On
-
-<div align="center">
-
-| 🛠️ Project | 📌 Status | 🔗 |
-| :---------- | :-------- | :- |
-| **Nexus 3D** — Stunning 3D landing page with Three.js & WebGL | 🟢 Active | [repo](https://github.com/Rahul777111/nexus-3d) |
-| **Orbit Workspace** — Local-first Kanban + live analytics dashboard | 🟢 Active | [repo](https://github.com/Rahul777111/orbit-workspace) |
-| **Nova AI Assistant** — Streaming AI chat with expert personas | 🟢 Active | [repo](https://github.com/Rahul777111/nova-ai-assistant) |
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
@@ -74,7 +59,7 @@ philosophy : "Build things that matter. Ship things that work."
 ## &nbsp;🧰&nbsp; Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,express,python,fastapi,prisma,postgres,mysql,mongodb,threejs,docker,git,github,vercel,vite&perline=11&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,express,python,fastapi,prisma,postgres,mysql,mongodb,docker,git,github,vercel,vite&perline=10&theme=dark" alt="Tech stack" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
@@ -83,15 +68,6 @@ philosophy : "Build things that matter. Ship things that work."
 ## &nbsp;⭐&nbsp; Featured Projects
 
 <div align="center">
-
-<h3>🆕 Recent Builds</h3>
-
-| Project | What it does | Stack | Repo |
-| :------ | :----------- | :---- | :--: |
-| 🌐 **Nexus 3D** | Stunning 3D landing page built with Three.js, WebGL & modern CSS | Three.js · WebGL · CSS | [↗](https://github.com/Rahul777111/nexus-3d) |
-| ◐ **Orbit Workspace** | Fast, local-first Kanban board with live analytics dashboard | Next.js 14 · TypeScript · Tailwind | [↗](https://github.com/Rahul777111/orbit-workspace) |
-| ✦ **Nova AI Assistant** | Free, no-signup AI chat with streaming & expert personas | Next.js 14 · TypeScript · Streaming | [↗](https://github.com/Rahul777111/nova-ai-assistant) |
-| ✦ **Lumina AI Studio** | Free, no-signup AI image studio with multi-model generation | Next.js 14 · TypeScript · Tailwind | [↗](https://github.com/Rahul777111/lumina-ai-studio) |
 
 <h3>Full-Stack Applications</h3>
 
@@ -117,12 +93,26 @@ philosophy : "Build things that matter. Ship things that work."
 ## &nbsp;📊&nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul777111&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul777111&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" alt="Top Languages" />
+
+| 📦 Public Repos | ⭐ Stars Earned | 🍴 Forks | 👥 Followers |
+| :-------------: | :-------------: | :------: | :----------: |
+| **10** | **10** | **0** | **2** |
+
 </div>
 
+<h3 align="center">Most Used Languages</h3>
+
+```text
+TypeScript  ████████████████████████████████████████░░░░  90.8%
+JavaScript  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7.3%
+CSS         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+```
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul777111&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
