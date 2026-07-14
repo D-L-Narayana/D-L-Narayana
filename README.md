@@ -30,6 +30,8 @@
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About Me
 
+<img align="right" src="assets/ascii-portrait-dark.png" width="300" alt="ASCII art portrait of D L Narayana" />
+
 ```yaml
 name       : D L Narayana
 location   : India 🇮🇳
