@@ -3,6 +3,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=D%20L%20Narayana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20of%20Real%20Products&descAlignY=54&descSize=18" alt="header banner" />
 </div>
 
+<img align="left" src="assets/ascii-portrait-dark.png" width="270" alt="ASCII art portrait of D L Narayana" />
+
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
   <a href="https://github.com/Rahul777111">
@@ -25,12 +27,12 @@
   <a href="mailto:nvr0910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+<br clear="all"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About Me
-
-<img align="right" src="assets/ascii-portrait-dark.png" width="300" alt="ASCII art portrait of D L Narayana" />
 
 ```yaml
 name       : D L Narayana
