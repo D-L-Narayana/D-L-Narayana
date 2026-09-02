@@ -6,18 +6,9 @@
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
   <a href="https://github.com/D-L-Narayana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Narayana+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node;Data+viz%2C+motion+%26+clean+UI;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Narayana+%F0%9F%91%8B;Full-Stack+%26+AI+Product+Engineer;Next.js+%7C+React+%7C+TypeScript+%7C+Node;Data+viz%2C+motion+%26+clean+UI;LLMs%2C+RAG+%26+AI+agents+in+production;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
   </a>
 </div>
-
-<!-- ===================== BADGES ===================== -->
-<div align="center">
-  <img src="https://hits.sh/github.com/D-L-Narayana.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=A78BFA&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/D-L-Narayana?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/D-L-Narayana?label=STARS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="Stars" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/D-L-Narayana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -33,22 +24,22 @@
 ```yaml
 name       : D L Narayana
 location   : India 🇮🇳
-role       : Full-Stack Developer
-focus      : Building polished, full-stack web apps that actually ship
-stack      : React · Next.js · TypeScript · Node.js · Python · Prisma · Tailwind
-exploring  : DSA · System Design · Cryptography · Motion & data visualization
-philosophy : "Build things that matter. Ship things that work."
+role       : Full-Stack Developer · AI Product Engineer
+focus      : Production-grade web apps with AI built in — assistants, RAG search, intelligent dashboards
+stack      : TypeScript · React · Next.js · Node.js · Python · Prisma · PostgreSQL · Tailwind
+ai         : LLM APIs (OpenAI · Anthropic · Gemini) · RAG & embeddings · vector search · agentic workflows
+exploring  : System Design · DSA · Cryptography · Motion & data visualization
 ```
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 What I'm building</h3>
-      <p>Full-stack products end-to-end — auth, APIs, databases and clean, animated front-ends. From civic platforms to booking apps to dev tools.</p>
+      <h3>🚀 What I build</h3>
+      <p>End-to-end products: authentication, REST APIs, relational data models and polished, animated front-ends — increasingly with AI at the core, from LLM-powered assistants and RAG search to intelligent dashboards.</p>
     </td>
     <td align="center" width="50%">
       <h3>💬 Ask me about</h3>
-      <p>Next.js architecture · React &amp; TypeScript · REST APIs with Node/Prisma · data visualization with Recharts · animation with Motion.</p>
+      <p>Next.js &amp; React architecture · TypeScript · Node/Prisma APIs · shipping LLM features to production (OpenAI, Anthropic, Gemini) · data visualization with Recharts · motion design with Motion.</p>
     </td>
   </tr>
 </table>
@@ -89,30 +80,6 @@ philosophy : "Build things that matter. Ship things that work."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-<!-- ===================== GITHUB STATS ===================== -->
-## &nbsp;📊&nbsp; GitHub Stats
-
-<div align="center">
-
-| 📦 Public Repos | ⭐ Stars Earned | 🍴 Forks | 👥 Followers |
-| :-------------: | :-------------: | :------: | :----------: |
-| **10** | **10** | **0** | **2** |
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
-
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## &nbsp;📈&nbsp; Contribution Activity
-
-<details align="center">
-  <summary><b>🧊 3D Contribution Graph</b></summary>
-  <br/>
-  <img width="90%" src="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
-
 <!-- ===================== CONNECT ===================== -->
 ## &nbsp;🤝&nbsp; Let's Connect
 
@@ -123,10 +90,6 @@ philosophy : "Build things that matter. Ship things that work."
 </div>
 
 <br/>
-
-<div align="center">
-  <i>"Build things that matter. Ship things that work."</i>
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer wave" />
