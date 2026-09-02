@@ -16,6 +16,12 @@
   <a href="mailto:nvr0910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="assets/terminal.svg" alt="terminal session" width="100%" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== ABOUT ===================== -->
@@ -51,6 +57,10 @@ exploring  : System Design · DSA · Cryptography · Motion & data visualization
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,express,python,fastapi,prisma,postgres,mysql,mongodb,docker,git,github,vercel,vite&perline=10&theme=dark" alt="Tech stack" />
+</div>
+
+<div align="center">
+  <img src="assets/orbit.svg" alt="tech stack orbit" width="100%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
