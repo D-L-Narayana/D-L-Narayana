@@ -112,7 +112,7 @@ philosophy : "Build things that matter. Ship things that work."
 <details align="center">
   <summary><b>🧊 3D Contribution Graph</b></summary>
   <br/>
-  <img width="90%" src="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="90%" src="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
@@ -121,8 +121,8 @@ philosophy : "Build things that matter. Ship things that work."
 ## &nbsp;🐍&nbsp; Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/output/snake.svg" width="100%" />
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
