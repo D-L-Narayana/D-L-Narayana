@@ -1,8 +1,7 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
   <img src="assets/banner.svg" alt="D L Narayana" width="100%" />
 </div>
-
-<!-- ===================== HEADER ===================== -->
 
 <!-- ===================== TYPING SVG ===================== -->
 <div align="center">
@@ -25,6 +24,8 @@
   <a href="https://linkedin.com/in/rahul777111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nvr0910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== ABOUT ===================== -->
 ## &nbsp;👨‍💻&nbsp; About Me
@@ -52,12 +53,16 @@ philosophy : "Build things that matter. Ship things that work."
   </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
 <!-- ===================== TECH STACK ===================== -->
 ## &nbsp;🧰&nbsp; Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,express,python,fastapi,prisma,postgres,mysql,mongodb,docker,git,github,vercel,vite&perline=10&theme=dark" alt="Tech stack" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== PROJECTS ===================== -->
 ## &nbsp;⭐&nbsp; Featured Projects
@@ -81,6 +86,8 @@ philosophy : "Build things that matter. Ship things that work."
 | 🔐 **[CryptoLab](https://github.com/Rahul777111/cryptolab)** | Cryptography playground — classical ciphers + real Web Crypto (AES-GCM, RSA, hashing) | React · Vite · Web Crypto | [↗](https://cryptolab-six.vercel.app) |
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## &nbsp;📊&nbsp; GitHub Stats
@@ -108,6 +115,8 @@ HTML        ░░░░░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 ## &nbsp;📈&nbsp; Contribution Activity
 
@@ -120,6 +129,18 @@ HTML        ░░░░░░░░░░░░░░░░░░░░░░�
   <br/>
   <img width="90%" src="https://raw.githubusercontent.com/Rahul777111/Rahul777111/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
+
+<!-- ===================== SNAKE ===================== -->
+## &nbsp;🐍&nbsp; Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake.svg" width="100%" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
 <!-- ===================== CONNECT ===================== -->
 ## &nbsp;🤝&nbsp; Let's Connect
@@ -136,9 +157,6 @@ HTML        ░░░░░░░░░░░░░░░░░░░░░░�
   <i>"Build things that matter. Ship things that work."</i>
 </div>
 
-## Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/D-L-Narayana/Rahul777111/output/snake.svg" width="100%" />
-</picture>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer wave" />
+</div>
