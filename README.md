@@ -117,16 +117,6 @@ philosophy : "Build things that matter. Ship things that work."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
 
-<!-- ===================== SNAKE ===================== -->
-## &nbsp;🐍&nbsp; Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/D-L-Narayana/D-L-Narayana/output/snake.svg" width="100%" />
-</picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
-
 <!-- ===================== CONNECT ===================== -->
 ## &nbsp;🤝&nbsp; Let's Connect
 
