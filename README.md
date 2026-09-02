@@ -92,5 +92,9 @@ exploring  : System Design · DSA · Cryptography · Motion & data visualization
 <br/>
 
 <div align="center">
+  <i>"Build things that matter. Ship things that work."</i>
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer wave" />
 </div>
