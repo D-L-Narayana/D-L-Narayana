@@ -33,7 +33,7 @@ location   : India 🇮🇳
 role       : Full-Stack Developer · AI Product Engineer
 focus      : Production-grade web apps with AI built in — assistants, RAG search, intelligent dashboards
 stack      : TypeScript · React · Next.js · Node.js · Python · Prisma · PostgreSQL · Tailwind
-ai         : LLM APIs (OpenAI · Anthropic · Gemini) · RAG & embeddings · vector search · agentic workflows
+ai         : LLM integration · RAG pipelines · embeddings & vector search · AI agents · evals & guardrails
 exploring  : System Design · DSA · Cryptography · Motion & data visualization
 ```
 
@@ -45,7 +45,7 @@ exploring  : System Design · DSA · Cryptography · Motion & data visualization
     </td>
     <td align="center" width="50%">
       <h3>💬 Ask me about</h3>
-      <p>Next.js &amp; React architecture · TypeScript · Node/Prisma APIs · shipping LLM features to production (OpenAI, Anthropic, Gemini) · data visualization with Recharts · motion design with Motion.</p>
+      <p>Next.js &amp; React architecture · TypeScript · Node/Prisma APIs · shipping LLM features to production — RAG, agents, evals · data visualization with Recharts · motion design with Motion.</p>
     </td>
   </tr>
 </table>
