@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="terminal session" width="100%" />
+  <img src="assets/terminal-v2.svg" alt="terminal session" width="100%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
@@ -60,7 +60,7 @@ exploring  : System Design · DSA · Cryptography · Motion & data visualization
 </div>
 
 <div align="center">
-  <img src="assets/orbit.svg" alt="tech stack orbit" width="100%" />
+  <img src="assets/orbit-v2.svg" alt="tech stack orbit" width="100%" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,100:302b63&height=2&section=header" alt="divider" />
