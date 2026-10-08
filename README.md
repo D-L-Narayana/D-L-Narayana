@@ -31,7 +31,7 @@
 ```yaml
 name        : D L Narayana
 location    : Visakhapatnam, India 🇮🇳
-education   : B.Tech Computer Science & Engineering · GITAM · Class of 2027 · CGPA 7.97/10
+education   : B.Tech CSE
 role        : Data Engineer · Full-Stack Developer · AI Product Engineer
 focus       : Production-grade data pipelines and web products — real-time CDC lakehouses, batch warehouses,
               analytics dashboards, and apps with LLMs built in
